@@ -1,0 +1,2 @@
+I did a simple query, did not used cte, inline table functions, or derived tables, against AdventureWork. Judging by the outcome I would suggest for the company to maintain their current status, like keep trading with countries that has higher EndOfDay rate, such as US, UA, and CA. I wasn't able to look at the Sales detail in depth, but they did occur large sales, like thousands. 
+The company might consider updating their Employee IDs, some IDs are mismatched which is a problem. 
